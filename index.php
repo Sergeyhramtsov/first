@@ -8,6 +8,7 @@
     <title>Document</title>
 </head>
 <body>
+<<<<<<< HEAD
 <h1>KJFdsjfkdh sjdhfk  sjdhfsd kjsgfsj gsjkdgfk </h1>
 </body>
 </html>
